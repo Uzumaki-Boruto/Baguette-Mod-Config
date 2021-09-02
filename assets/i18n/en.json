@@ -1,0 +1,49 @@
+{
+	"config": {
+		"alchemist": {
+			"addRecipe": "Add recipe",
+			"amount": "Amount",
+			"electricGrill": "Electric grill",
+			"electricGrillEnable": "Enable for electric crill",
+			"element": "Element:",
+			"gasRange": "Gas range",
+			"gasRangeEnable": "Enable for gas range",
+			"kiln": "Kiln",
+			"kilnEnable": "Enable for kiln",
+			"makingTime": "Making time:",
+			"makingTimeUnit": "seconds",
+			"materials": "Materials",
+			"metalRefinery": "Metal refinery",
+			"metalRefineryEnable": "Enable for metal refinery",
+			"microbeMusher": "Microbe musher",
+			"microbeMusherEnable": "Enable for microbe musher",
+			"molecularForge": "Molecular forge",
+			"molecularForgeEnable": "Enable for molecular forge",
+			"removeRecipe": "Remove recipe",
+			"results": "Result",
+			"rockCrusher": "Rock crusher",
+			"rockCrusherEnable": "Enable for rock crusher"
+		},
+		"general": {
+			"copied": "Copied to clipboard.",
+			"copiedButton": "Copied",
+			"copyButton": "Copy",
+			"downloadButton": "Download"
+		}
+	},
+	"language": {
+		"english": "English",
+		"vietnamese": "Vietnamese"
+	},
+	"mods": {
+		"alchemist": "Alchemist",
+		"vietnameseFood": "Vietnamese Food"
+	},
+	"navigation": {
+		"aboutMe": "About me",
+		"configGenerator": "Config generator"
+	},
+	"saveGenerator": {
+		"selectMod": "Select mod:"
+	}
+}

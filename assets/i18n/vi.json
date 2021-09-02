@@ -1,0 +1,49 @@
+{
+	"config": {
+		"alchemist": {
+			"addRecipe": "Thêm công thức",
+			"amount": "Số lượng",
+			"electricGrill": "Lò nướng điện",
+			"electricGrillEnable": "Bật cho Lò nướng điện",
+			"element": "Vật liệu:",
+			"gasRange": "Lò nướng gas",
+			"gasRangeEnable": "Bật cho lò nướng ga",
+			"kiln": "Lò nung",
+			"kilnEnable": "Bật cho lò nung",
+			"makingTime": "Thời gian chế tạo:",
+			"makingTimeUnit": "giây",
+			"materials": "Nguyên liệu",
+			"metalRefinery": "Máy tinh chế kim loại",
+			"metalRefineryEnable": "Bật cho máy tinh chế KL",
+			"microbeMusher": "Máy xay vi khuẩn",
+			"microbeMusherEnable": "Bật cho máy xay vi khuẩn",
+			"molecularForge": "Lò luyện phân tử",
+			"molecularForgeEnable": "Bật cho lò luyện phân tử",
+			"removeRecipe": "Xoá công thức",
+			"results": "Kết quả",
+			"rockCrusher": "Máy nghiền",
+			"rockCrusherEnable": "Bật cho máy nghiền"
+		},
+		"general": {
+			"copied": "Đã sao chép vào bộ nhớ tạm.",
+			"copiedButton": "Đã sao chép",
+			"copyButton": "Sao chép",
+			"downloadButton": "Tải xuống"
+		}
+	},
+	"language": {
+		"english": "Tiếng Anh",
+		"vietnamese": "Tiếng Việt"
+	},
+	"mods": {
+		"alchemist": "Nhà giả kim",
+		"vietnameseFood": "Thức ăn Việt Nam"
+	},
+	"navigation": {
+		"aboutMe": "Về tôi",
+		"configGenerator": "Trình tạo file cài đặt"
+	},
+	"saveGenerator": {
+		"selectMod": "Chọn mod:"
+	}
+}
