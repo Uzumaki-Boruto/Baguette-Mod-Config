@@ -48,7 +48,7 @@
 	},
 	"errors": {
 		"alchemist": {
-			"makingTimeNegative": "Making time không thể âm."
+			"makingTimeNegative": "Thời gian chế tạo không thể âm."
 		},
 		"general":{
 			"needFix": "Có lỗi xảy ra."
