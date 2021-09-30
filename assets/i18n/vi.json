@@ -45,5 +45,13 @@
 	},
 	"saveGenerator": {
 		"selectMod": "Chọn mod:"
+	},
+	"errors": {
+		"alchemist": {
+			"makingTimeNegative": "Making time không thể âm."
+		},
+		"general":{
+			"needFix": "Có lỗi xảy ra."
+		}
 	}
 }
